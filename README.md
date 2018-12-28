@@ -1,2 +1,2 @@
 # ciinext
-Plataforma de cine - Ciinext
+Plataforma de cine - Ciinext by @shechoruiz
